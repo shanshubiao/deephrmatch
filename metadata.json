@@ -1,0 +1,5 @@
+{
+  "name": "Deep HR Match",
+  "description": "Admin dashboard for viewing and comparing employer job descriptions with deep matching criteria.",
+  "requestFramePermissions": []
+}
